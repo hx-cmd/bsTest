@@ -1,0 +1,31 @@
+# demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# 前端笔试题
+- 制作一个环形进度条，具体样式请看效果图文件夹
+- 当百分比等于0%时，检测状态为未知；百分比在0-50%时，检测状态为正常；百分比在50%以上时，检测状态为报警。
+- 另在页面上设计一个滑动条（slider），可以控制百分比。滑动条样式无要求，能滑动即可。
+- 使用VUE完成，可用任意UI框架、可任意上网查阅资料，复制粘贴。
